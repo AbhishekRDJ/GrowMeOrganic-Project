@@ -1,3 +1,23 @@
+Here’s a short and clear README for your project, including your deployed link:
+
+---
+
+# GrowMeOrganic Artworks Gallery
+**Live Demo:**  
+# [https://legendary-licorice-d68590.netlify.app/](https://legendary-licorice-d68590.netlify.app/)
+
+A simple React + TypeScript app built with Vite that displays an artworks gallery using the Art Institute of Chicago API. Features include:
+
+- Paginated gallery table of artworks
+- Select and bulk-select artworks
+- Built with PrimeReact UI components
+- State managed via React Context
+
+
+
+---
+
+Let me know if you want to add or change any sections!
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
