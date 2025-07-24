@@ -44,6 +44,7 @@ export const ArtworksTable: React.FC = () => {
             const slice = ids.slice(0, Math.min(remaining, ids.length));
             toAdd.push(...slice);
             remaining -= slice.length;
+
             currentPage++;
         }
         dispatch({ type: 'ADD_IDS', ids: toAdd });
